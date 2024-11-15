@@ -1,2 +1,2 @@
-# Hello_World
+# Hello-World
 A simple first hello world
